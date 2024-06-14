@@ -54,13 +54,17 @@ We then ran a transcriptome analysis to investigate the gene expression level of
 ## AHB EXPRESSION ANALYSIS
 APOE is the most important risk factor for developing late-onset Alzheimer’s disease. That’s why we decided to take
  a closer look at which cortical regions it is more expressed. We decided to select the 10 regions that show the
- highest expression levels of this gene.
+ highest expression levels of this gene. We then decided to plot them in a cortical map for better visualisation. The light green areas are the regions where
+ APOE is more expressed. We used the data from only the left hemisphere because the data from the right
+ hemisphere was not complete. We can see how APOE is mostly expressed in the entorhinal cortical region. 
  
 <div align="center">
- <img width="623" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/10c9084a-4eb1-4a64-88a0-d7e7a5700533">
+ <img width="709" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/94ee51aa-923b-44ab-abd6-6b276d2ec38c">
 </div> 
 <div align="center">
- Figure 6. In this table are listed the top 10 regions where APOE is more expressed.
+  Figure 6. We can see a cortical map of the left hemisphere and the right hemisphere. Given that we used data from
+  only the left hemisphere, the right hemisphere doesn’t show any differential colours. Instead, we can see how in the
+  left hemisphere APOE is mostly expressed in the entorhinal cortical region
 </div> 
 
 
