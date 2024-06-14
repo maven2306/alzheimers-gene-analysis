@@ -182,7 +182,8 @@ We used several datasets. The first one comes from studies on AD by Jansen et al
  We used the data from this file
  “SURASIS_grouped_regionProperties_FS_aparc2.mat” and these files for metadata: “SURASIS_mr_sessions.csv” and
  “SURASIS_clinical_data.csv”. We decided to run a GWAS analysis, an AD gene expression analysis, a protein-protein
- interaction analysis, an AHB expression analysis, and an MRI analysis. All the analyses were run using MATLAB.
+ interaction analysis, an AHB expression analysis, and an MRI analysis. All the analyses were run using MATLAB, Version: 24.1.0.2578822. The Curve Fitting Toolbox (version 24.1), the Deep Learning Toolbox
+ (version 24.1), and the Statistics and Machine Learning Toolbox (version 24.1) were used. 
 
  ## REFERENCES 
  - Knopman, D. S., Amieva, H., Petersen, R. C., Chételat, G., Holtzman, D. M., Hyman, B.
