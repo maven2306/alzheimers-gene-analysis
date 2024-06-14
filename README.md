@@ -51,12 +51,16 @@ We then ran a transcriptome analysis to investigate the gene expression level of
  Figure 3. Four violin plots show in which region each gene’s expression pattern is statistically different between patients and controls. TOMM40 shows a statistically different pattern in SFG, APOC1 in PC, PVRL2 in HIP, APOE in MTG.
 </div> 
 
- ## PPI-NETWORKS
-Afterwards, we looked for protein-protein interactions between the genes found in the GWAS analysis. This gave us a
- broader perspective and understanding of how these proteins work, and how these interactions and associations
- between each other could be one of the targets for future research in Alzheimer's Disease. To do this we used the
- datasets given by Sügis et al, 2019. We found 128 genes that interact with our 44 significant AD genes found in the
- GWAS. One significant AD gene we focused on was APOE, and to determine its predicted protein interaction
- partners, we used the database STRING. In the figure below, the known interactions from curated databases and the
- experimentally determined ones are shown. They are all proteins that interact with APOE affecting Alzheimer’s.
+## AHB EXPRESSION ANALYSIS
+APOE is the most important risk factor for developing late-onset Alzheimer’s disease. That’s why we decided to take
+ a closer look at which cortical regions it is more expressed. We decided to select the 10 regions that show the
+ highest expression levels of this gene.
+ 
+<div align="center">
+ <img width="623" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/10c9084a-4eb1-4a64-88a0-d7e7a5700533">
+</div> 
+<div align="center">
+ Figure 6. In this table are listed the top 10 regions where APOE is more expressed.
+</div> 
+
 
