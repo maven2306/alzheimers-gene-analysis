@@ -15,6 +15,7 @@
 4. [MRI ANALYSIS](#MRI-ANALYSIS)
 5. [DISCUSSION](#DISCUSSION)
 6. [MANAGEMENT PLAN](#MANAGEMENT-PLAN)
+7. [REFERENCES](#REFERENCES)
 
 ---
 
@@ -182,3 +183,36 @@ We used several datasets. The first one comes from studies on AD by Jansen et al
  “SURASIS_grouped_regionProperties_FS_aparc2.mat” and these files for metadata: “SURASIS_mr_sessions.csv” and
  “SURASIS_clinical_data.csv”. We decided to run a GWAS analysis, an AD gene expression analysis, a protein-protein
  interaction analysis, an AHB expression analysis, and an MRI analysis. All the analyses were run using MATLAB.
+
+ ## REFERENCES 
+  Knopman, D. S., Amieva, H., Petersen, R. C., Chételat, G., Holtzman, D. M., Hyman, B.
+ T., Nixon, R. A., & Jones, D. T. (2021). Alzheimer disease. Nature reviews. Disease
+ primers, 7(1), 33. https://doi.org/10.1038/s41572-021-00269-y
+ Lee, E. G., Chen, S., Leong, L., Tulloch, J., & Yu, C. E. (2021). TOMM40 RNA
+ Transcription in Alzheimer's Disease Brain and Its Implication in Mitochondrial
+ Dysfunction. Genes, 12(6), 871. https://doi.org/10.3390/genes12060871
+ Liang, X., Liu, C., Liu, K., Cong, L., Wang, Y., Liu, R., Fa, W., Tian, N., Cheng, Y., Wang, N.,
+ Hou, T., Du, Y., & Qiu, C. (2022). Association and interaction of TOMM40 and PVRL2
+ with plasma amyloid-β and Alzheimer's disease among Chinese older adults: a
+ population-based study. Neurobiology of aging, 113, 143–151.
+ https://doi.org/10.1016/j.neurobiolaging.2021.12.013
+ Long, J. M., & Holtzman, D. M. (2019). Alzheimer Disease: An Update on
+ Pathobiology and Treatment Strategies. Cell, 179(2), 312–339.
+ https://doi.org/10.1016/j.cell.2019.09.001
+ Serrano-Pozo, A., Das, S., & Hyman, B. T. (2021). APOE and Alzheimer's disease:
+ advances in genetics, pathophysiology, and therapeutic approaches. The Lancet.
+ Neurology, 20(1), 68–80. https://doi.org/10.1016/S1474-4422(20)30412-9
+ Sügis, E., Dauvillier, J., Leontjeva, A. et al. HENA, heterogeneous network-based data
+ set for Alzheimer’s disease. Sci Data 6, 151 (2019).
+ https://doi.org/10.1038/s41597-019-0152-0
+ Thompson, P. M., Hayashi, K. M., de Zubicaray, G., Janke, A. L., Rose, S. E., Semple, J.,
+ Herman, D., Hong, M. S., Dittmer, S. S., Doddrell, D. M., & Toga, A. W. (2003).
+ Dynamics of gray matter loss in Alzheimer's disease. The Journal of neuroscience :
+ the official journal of the Society for Neuroscience, 23(3), 994–1005.
+ https://doi.org/10.1523/JNEUROSCI.23-03-00994.2003
+ Zhou, Q., Zhao, F., Lv, Z. P., Zheng, C. G., Zheng, W. D., Sun, L., Wang, N. N., Pang, S., de
+ Andrade, F. M., Fu, M., He, X. H., Hui, J., Jiang, W., Yang, C. Y., Shi, X. H., Zhu, X. Q.,
+ Pang, G. F., Yang, Y. G., Xie, H. Q., Zhang, W. D., … Yang, Z. (2014). Association
+ between APOC1 polymorphism and Alzheimer's disease: a case-control study and
+ meta-analysis. PloS one, 9(1), e87017.
+ https://doi.org/10.1371/journal.pone.0087017
