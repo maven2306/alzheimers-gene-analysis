@@ -67,4 +67,21 @@ APOE is the most important risk factor for developing late-onset Alzheimer’s d
   left hemisphere APOE is mostly expressed in the entorhinal cortical region
 </div> 
 
+##  MRI ANALYSIS
+ Some very interesting insights were obtained using data from MRI scans of patients with AD and controls. Here we
+ can see the most shrunk cortical regions in patients affected with AD. The effect size is the t-value obtained from
+ t-tests ran to test for a difference in the brain volume between controls and patients. The most shrunk cortical region
+ is the parahippocampal region in the left hemisphere, which is also confirmed by scientific literature (Thompson et
+ al., 2003), followed by the isthumscingulate in the left hemisphere and the parsobitalis also in the left hemisphere.
+ We also performed a statistical evaluation, most specifically a regression between APOE expression in the left
+ hemisphere of the brain with the pathology score of AD in the left and right hemispheres of the brain. The result of
+ the test was 4.4457e-25, which is extremely significant. This suggests a very strong and meaningful relationship
+ between APOE expression and the pathology scores of AD.
+ 
+<div align="center">
+  <img width="820" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/e2c1e174-db52-4dc8-ab36-47e8567cb849">
+</div> 
+<div align="center">
+ Figure 7. In this map of the cortical regions, we can see highlighted the most shrunk ones. The darker is the colour, the most shrunk the region is. 
+</div> 
 
