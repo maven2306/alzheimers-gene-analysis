@@ -21,6 +21,11 @@ Out of the 44, we selected 4 genes that had the lowest p-value and hence the one
  <img width="536" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/3efc415a-71db-47c4-b719-519ba382fc83">
 </div> 
 
+<div align="center">
+ Figure 2. This table shows the 44 most significant genes of the GWAS analysis, along with their p-value and on which chromosome they're found. The 4 most significant ones are highlighted.
+</div> 
+
+
 
 
 
