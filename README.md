@@ -27,7 +27,7 @@ genes whose frequency was significantly different in AD patients compared to the
 </div> 
 
 <div align="center">
- Figure1. Manhattanplot. The X-axis shows genes found on each chromosome, and the Y-axis shows the log of the
+ Figure 1. Manhattanplot. The X-axis shows genes found on each chromosome, and the Y-axis shows the log of the
  P-value. All the genes above the significance threshold line are correlated with AD.
 </div> 
 
@@ -84,4 +84,19 @@ APOE is the most important risk factor for developing late-onset Alzheimer’s d
 <div align="center">
  Figure 7. In this map of the cortical regions, we can see highlighted the most shrunk ones. The darker is the colour, the most shrunk the region is. 
 </div> 
+
+# 
+ Furthermore, to show our resulting association between the APOE gene expression and its effect on brain volume, a
+ scatter plot with the best-fit line and with a 95% confidence interval was made. This, presented in Figure 10, shows
+ howadecrease in APOE expression leads to a bigger effect size on the volume of the brain.
+<div align="center">
+ <img width="533" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/8c1be862-7eb4-48b3-9d32-4885cdde9237">
+</div> 
+<div align="center">
+ Figure 10: Correlation between the normal APOE expression
+  of cortical regions and the effect size difference in the brain
+  volume of Alzheimer’s patients, with a confidence interval of
+  95%.
+</div> 
+  
 
