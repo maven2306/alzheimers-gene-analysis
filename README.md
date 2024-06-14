@@ -11,7 +11,10 @@
 
 1. [GWAS ANALYSIS](#GWAS-ANALYSIS)
 2. [TRANSCRIPTOME ANALYSIS](#TRANSCRIPTOME-ANALYSIS)
-3. [PPI-NETWORKS](#PPI-NETWORKS)
+3. [AHB EXPRESSION ANALYSIS](#AHB-EXPRESSION-ANALYSIS)
+4. [MRI ANALYSIS](#MRI-ANALYSIS)
+5. [DISCUSSION](#DISCUSSION)
+6. [MANAGEMENT PLAN](#MANAGEMENT-PLAN)
 
 ---
 
@@ -155,3 +158,27 @@ The purpose of this report was to explore deeper which roles play several of the
  interventions. Further research and drug development efforts in targeting TOMM40, APOE, PVRL2, and APOC1 could
  pave the way for improved treatments and management strategies for AD patients.
 
+
+##  MANAGEMENT PLAN
+We used several datasets. The first one comes from studies on AD by Jansen et al. (2019), obtained from the
+ database FUMA GWAS (https://fuma.ctglab.nl/). We performed a GWAS analysis on the “AD_magma.genes.txt” file.
+ Then we performed a transcriptome analysis on the file “GSE5281_series_matrix.txt.gz”. This dataset (which is based
+ on the studies of Liang WS et al., and Readhead B et al.) was obtained from this website:
+ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5281,
+ and
+ we found the metadata file
+ “GPL570-55999_metadata.txt” on this website: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570. To
+ perform our PPI analysis, we used the file “intact_int.txt’” from a study by Sügis et al.
+ (https://www.nature.com/articles/s41597-019-0152-0).
+ On the same website, we found the file
+ “'ENGS_SYMBOL_list_intact.txt” which is the metadata file, and also the dataset “alz_intact_int.txt”. The
+ https://string-db.org/ website was used to compare our PPIs analysis with their database. We then used a
+ transcriptomic dataset from the Allan Human Brain Institute (http://human.brain-map.org/) to check the expression
+ levels of more than 20.000 genes across 34 cortical regions in both hemispheres. The dataset used is named
+ “AHBA_transcriptomics_114atlas.mat”. We also used MRI data taken from the OASIS and ADNI databases
+ (https://www.oasis-brains.org/,
+ http://adni.loni.usc.edu/).
+ We used the data from this file
+ “SURASIS_grouped_regionProperties_FS_aparc2.mat” and these files for metadata: “SURASIS_mr_sessions.csv” and
+ “SURASIS_clinical_data.csv”. We decided to run a GWAS analysis, an AD gene expression analysis, a protein-protein
+ interaction analysis, an AHB expression analysis, and an MRI analysis. All the analyses were run using MATLAB.
