@@ -5,7 +5,8 @@
 <div align="center">
  <h2>This project was conducted collaboratively by Matteo Venturini and Ana Esteve Garcia.</h2>
 </div> 
----
+
+
 ### Table of Contents
 
 1. [GWAS ANALYSIS](#GWAS-ANALYSIS)
