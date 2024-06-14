@@ -121,5 +121,37 @@ What if we had ascript that could determine whether someone will develop Late-On
   'shuffle', 'every-epoch', 'InitialLearnRate', 0.001, 'L2Regularization', 0.1, 'Momentum', 0.99, 'ValidationPatience', 50};
 </div>  
 
-
+## DISCUSSION
+The purpose of this report was to explore deeper which roles play several of the most significantly associated genes
+ in Alzheimer’s disease. Thanks to the publicly available datasets, we ran analyses that allowed us to obtain valuable
+ insights into the expression patterns underlying AD.
+ Our GWAS analysis identified 44 genes that showed statistically significant differential expression between AD
+ patients and healthy controls. Among these genes, we selected the four most significant ones based on their low
+ p-values. These genes include TOMM40, APOE, PVRL2, and APOC1, all of which have been previously implicated in
+ ADasfound in the literature.
+ To further explore the expression patterns of these four genes, we conducted transcriptome analyses in different
+ brain regions, specifically the Entorhinal Cortex, Hippocampus, Middle Temporal Gyrus, Posterior Cingulate, and
+ Superior Frontal Gyrus. The analysis showed significant differential expression patterns for each gene in specific brain
+ regions. TOMM40 exhibited a statistically different expression pattern in the Superior Frontal Gyrus (SFG), APOC1 in
+ the Posterior Cingulate (PC), PVRL2 in the Hippocampus (HIP), and APOE in the Middle Temporal Gyrus (MTG).
+ In addition, we explored the regional expression profile of APOE in the brain using data from the Allan Human Brain
+ Institute. Our analysis highlighted the top ten cortical regions with the highest APOE expression, showing that APOE
+ is most expressed in the hippocampus. This observation aligns with the well-established involvement of the
+ hippocampus in AD pathology and proves once more the significance of APOE in AD. These findings, supported also
+ by the transcriptome analysis mentioned above, suggest that the genes involved in AD pathogenesis are not equally
+ dysregulated across the brain.
+ Lastly, MRI analysis provided insights into the structural differences (specifically the brain volume) between AD
+ patients and healthy controls. The analysis revealed that the most shrunk cortical region in patients with AD is the
+ parahippocampal region. These findings complement the genetic and expression studies, providing a deeper
+ understanding of the pathological changes associated with AD.
+ Based on the significant differential expression patterns of TOMM40, APOE, PVRL2, and APOC1 in AD patients and the
+ collective findings from the various analyses conducted in this study, we propose the exploration of targeted drug
+ development. These genes represent promising targets for therapeutic interventions to mitigate the progression or
+ prevent AD onset. By collaborating with pharmaceutical companies, resources can be allocated to investigate further
+ the potential of developing drugs that modulate the expression of these genes in the relevant brain regions.
+ In conclusion, this data report has identified the most significant genes associated with late-onset Alzheimer's
+ disease and characterized their expression patterns in specific brain regions. The findings contribute to our
+ understanding of the genetic and molecular factors underlying AD and provide insights for potential therapeutic
+ interventions. Further research and drug development efforts in targeting TOMM40, APOE, PVRL2, and APOC1 could
+ pave the way for improved treatments and management strategies for AD patients.
 
