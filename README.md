@@ -1,8 +1,8 @@
 # MOST SIGNIFICANT GENES IN LATE-ONSET ALZHEIMER’S DISEASE
 <div align="center">
- This project was conducted collaboratively by Matteo Venturini and Ana Esteve Garcia.
+ <h2>This project was conducted collaboratively by Matteo Venturini and Ana Esteve Garcia.</h2>
 </div> 
-
+#
 Alzheimer's disease (AD) is marked by β-amyloid plaques and tau protein neurofibrillary tangles. Genetic factors play a significant role in AD, with polymorphisms in the TOMM40, APOE, PVRL2, and APOC1 genes linked to increased risk. TOMM40 is crucial for mitochondrial function and is downregulated in AD, with a poly T repeat associated with the disease's onset. APOE, particularly the ε4 allele, is the strongest genetic risk factor, influencing neurofibrillary tangles and amyloid-peptide aggregates. PVRL2, involved in adherence junctions, may interact with TOMM40 to impact Aβ metabolism, increasing AD risk. APOC1, responsible for cholesterol metabolism and neuronal processes, has an insertion allele linked to AD. This report presents evidence of significant expression differences in these genes between AD patients and healthy controls, suggesting they are key targets for drug development to treat AD.
 
 ## GWAS ANALYSIS
