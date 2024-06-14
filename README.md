@@ -33,9 +33,7 @@ genes whose frequency was significantly different in AD patients compared to the
 </div> 
 
 <div align="center">
-<span style="color: blue;" Figure 1. Manhattanplot. The X-axis shows genes found on each chromosome, and the Y-axis shows the log of the
-P-value. All the genes above the significance threshold line are correlated with AD. 
-</span>
+ <span style="color: blue;" Figure 1. Manhattanplot. The X-axis shows genes found on each chromosome, and the Y-axis shows the log of the  P-value. All the genes above the significance threshold line are correlated with AD.</span>
 </div> 
 
 # 
