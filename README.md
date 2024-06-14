@@ -33,7 +33,9 @@ We then ran a transcriptome analysis to investigate the gene expression level of
 <div align="center">
  <img width="701" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/963c5c2f-d9f6-4612-a8ba-77ccbc0b27fc">
 </div> 
-
+<div align="center">
+ Figure 3. Four violin plots show in which region each gene’s expression pattern is statistically different between patients and controls. TOMM40 shows a statistically different pattern in SFG, APOC1 in PC, PVRL2 in HIP, APOE in MTG.
+</div> 
 
 
 
