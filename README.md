@@ -1,4 +1,7 @@
-# MOST SIGNIFICANT GENES IN LATE-ONSET ALZHEIMER’S DISEASE
+<div align="center">
+ <h1>MOST SIGNIFICANT GENES IN LATE-ONSET ALZHEIMER’S DISEASE</h1>
+</div> 
+
 <div align="center">
  <h2>This project was conducted collaboratively by Matteo Venturini and Ana Esteve Garcia.</h2>
 </div> 
