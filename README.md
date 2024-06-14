@@ -8,9 +8,13 @@ genes whose frequency was significantly different in AD patients compared to the
 
 <div align="center">
  <img width="407" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/498e02d3-2d33-40f8-9e3a-7e64aaf63475">
+</div> 
+
+<div align="center">
  Figure1. Manhattanplot. The X-axis shows genes found on each chromosome, and the Y-axis shows the log of the
  P-value. All the genes above the significance threshold line are correlated with AD.
-</div>
+</div> 
+
 
 
 
