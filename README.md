@@ -15,6 +15,12 @@ genes whose frequency was significantly different in AD patients compared to the
  P-value. All the genes above the significance threshold line are correlated with AD.
 </div> 
 
+# 
+Out of the 44, we selected 4 genes that had the lowest p-value and hence the ones that were more correlated to AD. Our genes of interest were all on Chromosome 19.
+<div align="center">
+ <img width="536" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/3efc415a-71db-47c4-b719-519ba382fc83">
+</div> 
+
 
 
 
