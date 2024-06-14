@@ -98,5 +98,28 @@ APOE is the most important risk factor for developing late-onset Alzheimer’s d
   volume of Alzheimer’s patients, with a confidence interval of
   95%.
 </div> 
-  
+
+## MACHINE LEARNING
+What if we had ascript that could determine whether someone will develop Late-Onset AD based on their MRI data?
+ Well, that’s what we did. For this, we used two different models. In the first one, we split our groups of patients and
+ controls into train and test sets. Then the classifier was assessed and its effectiveness was evaluated. The trained
+ classifier showed a promising performance with only getting incorrect 1.67% of the cases in the training set. However,
+ it also had 9 false positives and 2 false negatives. We could conclude that the performance of this model was very
+ accurate and it would work to identify if a new participant is a potential patient. But further optimization of the
+ classifier could be done to minimise the false positives and the overall performance. We then made a second
+ prediction model, using a neural network. This model showed fewer false negatives, only around 2, while more false
+ positives, around 30. By changing the setting parameters we got an 87.56% validation accuracy which shows mostly
+ no signs of overfitting. Therefore, even though the number of wrongly predicted participants with Alzheimer's was
+ quite high, false negatives were exceptionally low, making this model a safe and significantly accurate model to use.
+ However, further research should be made to minimise the number of false positives and make it even more
+ accurate.
+<div align="center">
+ <img width="989" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/efc8a588-62ab-4f8c-8c3c-4fe26c11a0c3">
+</div>  
+<div align="center">
+  Figure 11 . The following parameters were used: options = {'Verbose', true, 'Plots',' training progress, .
+  'shuffle', 'every-epoch', 'InitialLearnRate', 0.001, 'L2Regularization', 0.1, 'Momentum', 0.99, 'ValidationPatience', 50};
+</div>  
+
+
 
