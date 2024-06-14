@@ -62,7 +62,7 @@ APOE is the most important risk factor for developing late-onset Alzheimer’s d
  <img width="709" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/94ee51aa-923b-44ab-abd6-6b276d2ec38c">
 </div> 
 <div align="center">
-  Figure 6. We can see a cortical map of the left hemisphere and the right hemisphere. Given that we used data from
+  Figure 4. We can see a cortical map of the left hemisphere and the right hemisphere. Given that we used data from
   only the left hemisphere, the right hemisphere doesn’t show any differential colours. Instead, we can see how in the
   left hemisphere APOE is mostly expressed in the entorhinal cortical region
 </div> 
@@ -82,18 +82,18 @@ APOE is the most important risk factor for developing late-onset Alzheimer’s d
   <img width="820" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/e2c1e174-db52-4dc8-ab36-47e8567cb849">
 </div> 
 <div align="center">
- Figure 7. In this map of the cortical regions, we can see highlighted the most shrunk ones. The darker is the colour, the most shrunk the region is. 
+ Figure 5. In this map of the cortical regions, we can see highlighted the most shrunk ones. The darker is the colour, the most shrunk the region is. 
 </div> 
 
 # 
  Furthermore, to show our resulting association between the APOE gene expression and its effect on brain volume, a
- scatter plot with the best-fit line and with a 95% confidence interval was made. This, presented in Figure 10, shows
- howadecrease in APOE expression leads to a bigger effect size on the volume of the brain.
+ scatter plot with the best-fit line and with a 95% confidence interval was made. This, presented in Figure 6, shows
+ how a decrease in APOE expression leads to a bigger effect size on the volume of the brain.
 <div align="center">
  <img width="533" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/8c1be862-7eb4-48b3-9d32-4885cdde9237">
 </div> 
 <div align="center">
- Figure 10: Correlation between the normal APOE expression
+ Figure 6. Correlation between the normal APOE expression
   of cortical regions and the effect size difference in the brain
   volume of Alzheimer’s patients, with a confidence interval of
   95%.
@@ -117,8 +117,8 @@ What if we had ascript that could determine whether someone will develop Late-On
  <img width="989" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/efc8a588-62ab-4f8c-8c3c-4fe26c11a0c3">
 </div>  
 <div align="center">
-  Figure 11 . The following parameters were used: options = {'Verbose', true, 'Plots',' training progress, .
-  'shuffle', 'every-epoch', 'InitialLearnRate', 0.001, 'L2Regularization', 0.1, 'Momentum', 0.99, 'ValidationPatience', 50};
+  Figure 7. The following parameters were used: options = {'Verbose', true, 'Plots',' training progress,
+  'shuffle', 'every-epoch', 'InitialLearnRate', 0.001, 'L2Regularization', 0.1, 'Momentum', 0.99, 'ValidationPatience', 50}.
 </div>  
 
 ## DISCUSSION
