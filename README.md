@@ -37,5 +37,12 @@ We then ran a transcriptome analysis to investigate the gene expression level of
  Figure 3. Four violin plots show in which region each gene’s expression pattern is statistically different between patients and controls. TOMM40 shows a statistically different pattern in SFG, APOC1 in PC, PVRL2 in HIP, APOE in MTG.
 </div> 
 
-
+ ## PPI-NETWORKS
+Afterwards, we looked for protein-protein interactions between the genes found in the GWAS analysis. This gave us a
+ broader perspective and understanding of how these proteins work, and how these interactions and associations
+ between each other could be one of the targets for future research in Alzheimer's Disease. To do this we used the
+ datasets given by Sügis et al, 2019. We found 128 genes that interact with our 44 significant AD genes found in the
+ GWAS. One significant AD gene we focused on was APOE, and to determine its predicted protein interaction
+ partners, we used the database STRING. In the figure below, the known interactions from curated databases and the
+ experimentally determined ones are shown. They are all proteins that interact with APOE affecting Alzheimer’s.
 
