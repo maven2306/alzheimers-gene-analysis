@@ -6,5 +6,8 @@ We first conducted a GWAS analysis. Genome-Wide-Association-Studies are helpful 
 mutations in which SNPs are correlated to a given phenotype or disease. Out of 18950 genes analysed, we found 44
 genes whose frequency was significantly different in AD patients compared to the healthy control.
 
+# 
 <img width="407" alt="image" src="https://github.com/maven2306/genes_Alzheimer-s/assets/169473359/498e02d3-2d33-40f8-9e3a-7e64aaf63475">
+
+
 
