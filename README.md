@@ -210,7 +210,7 @@ We used several datasets. The first one comes from studies on AD by Jansen et al
  Dynamics of gray matter loss in Alzheimer's disease. The Journal of neuroscience :
  the official journal of the Society for Neuroscience, 23(3), 994–1005.
  https://doi.org/10.1523/JNEUROSCI.23-03-00994.2003
- _ Zhou, Q., Zhao, F., Lv, Z. P., Zheng, C. G., Zheng, W. D., Sun, L., Wang, N. N., Pang, S., de
+- Zhou, Q., Zhao, F., Lv, Z. P., Zheng, C. G., Zheng, W. D., Sun, L., Wang, N. N., Pang, S., de
  Andrade, F. M., Fu, M., He, X. H., Hui, J., Jiang, W., Yang, C. Y., Shi, X. H., Zhu, X. Q.,
  Pang, G. F., Yang, Y. G., Xie, H. Q., Zhang, W. D., … Yang, Z. (2014). Association
  between APOC1 polymorphism and Alzheimer's disease: a case-control study and
