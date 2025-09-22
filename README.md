@@ -220,7 +220,7 @@ We used several datasets. The first one comes from studies on AD by Jansen et al
  https://doi.org/10.1371/journal.pone.0087017
 
 
-## Before running 
+## BEFORE RUNNING
 - The file SignificantGenesAnalysisAEMV.m contains the actual analysis. 
 - The file geneExpressionDifference.m is a function needed to run the analysis. 
 -------------------------------------------------------------------------------
