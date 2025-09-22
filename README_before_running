@@ -1,7 +1,0 @@
-- The file SignificantGenesAnalysisAEMV.m contains the actual analysis. 
-- The file geneExpressionDifference.m is a function needed to run the analysis. 
--------------------------------------------------------------------------------
-In order to run this analysis, the following toolboxes are required:
-- Curve Fitting Toolbox                                 Version 24.1        
-- Deep Learning Toolbox                                 Version 24.1        
-- Statistics and Machine Learning Toolbox               Version 24.1
