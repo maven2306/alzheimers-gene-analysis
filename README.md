@@ -218,3 +218,13 @@ We used several datasets. The first one comes from studies on AD by Jansen et al
  between APOC1 polymorphism and Alzheimer's disease: a case-control study and
  meta-analysis. PloS one, 9(1), e87017.
  https://doi.org/10.1371/journal.pone.0087017
+
+
+## Before running 
+- The file SignificantGenesAnalysisAEMV.m contains the actual analysis. 
+- The file geneExpressionDifference.m is a function needed to run the analysis. 
+-------------------------------------------------------------------------------
+In order to run this analysis, the following toolboxes are required:
+- Curve Fitting Toolbox                                 Version 24.1        
+- Deep Learning Toolbox                                 Version 24.1        
+- Statistics and Machine Learning Toolbox               Version 24.1
